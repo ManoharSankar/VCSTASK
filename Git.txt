@@ -1,0 +1,28 @@
+Welcome to Git Program
+Git Commands
+git init
+git add
+git commit -m "message"
+git status
+git log 
+git log --oneline
+git remote --v
+git remote add url
+git branch
+git checkout -b branch name
+git switch branch
+git merge
+git rebase
+git cherry-pick commit-id
+git restore 
+git revert
+git reset --mixed
+git reset --soft
+git reset --hard
+git pull origin branch
+git push origin branch
+git config --global user.name "Name"
+git config --global user.email "email"
+git bisect
+git fetch
+git show
