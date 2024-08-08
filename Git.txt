@@ -1,6 +1,7 @@
 Welcome to Git Program
 Git Commands
 git init
+git clone url
 git add
 git commit -m "message"
 git status
