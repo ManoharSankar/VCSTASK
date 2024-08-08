@@ -6,6 +6,7 @@ git add
 git commit -m "message"
 git status
 git log 
+git stash
 git log --oneline
 git remote --v
 git remote add url
